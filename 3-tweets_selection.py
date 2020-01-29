@@ -2,7 +2,6 @@ import re
 import os
 import csv
 import datetime
-import collections
 from datetime import timedelta
 from difflib import SequenceMatcher as sm
  
